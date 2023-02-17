@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBonus.Api", "MyBonus.Api\MyBonus.Api.csproj", "{34EDFC5D-1F8B-4EC2-AD4C-E980BF2DB5C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBonus.Services.Tests", "MyBonus.Services.Tests\MyBonus.Services.Tests.csproj", "{36672FE7-BD5E-4369-A64C-826ACE2BE820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34EDFC5D-1F8B-4EC2-AD4C-E980BF2DB5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EDFC5D-1F8B-4EC2-AD4C-E980BF2DB5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EDFC5D-1F8B-4EC2-AD4C-E980BF2DB5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EDFC5D-1F8B-4EC2-AD4C-E980BF2DB5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36672FE7-BD5E-4369-A64C-826ACE2BE820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36672FE7-BD5E-4369-A64C-826ACE2BE820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36672FE7-BD5E-4369-A64C-826ACE2BE820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36672FE7-BD5E-4369-A64C-826ACE2BE820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
